@@ -1,2 +1,3 @@
 # Smart-Parking-system
-A smart parking system that helps the owner keep track of hug parking lots
+
+Hard_ware_to_be_used-1.RFID tags2, An RFID tracking system,3.ultrasonic sensors
